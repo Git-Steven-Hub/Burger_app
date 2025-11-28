@@ -1,5 +1,9 @@
-Here is the place where I upload my projects/files Python.
+¡Hi everyone!
 
-I really appreciate if you guys can help me with my code or if you are interested in my code.
+This an app what I made with Python, PySide6 and MySQLite3.
 
-¡Thank you!
+The function of this app is drive all archives, orders, users, etc of a burger locale.
+
+I made a simple use for all people, everyone can understand the function of every button.
+
+For his use in this moment you need install PySide6.
